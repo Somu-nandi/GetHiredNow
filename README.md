@@ -171,11 +171,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Somu Nandi**
 - GitHub: [@Somu-nandi](https://github.com/Somu-nandi)
 - LinkedIn: [Soumya Nandi](https://linkedin.com/in/soumya-nandi-7a0347249)
-=======
-**Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/Somu-nandi)
-- LinkedIn: [Your LinkedIn Profile](linkedin.com/in/soumya-nandi-7a0347249)
->>>>>>> 9db7615b335e2390a2e72c90536defd05bb98de0
 
 ## 🙏 Acknowledgments
 
