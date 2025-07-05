@@ -167,8 +167,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-<<<<<<< HEAD
-**Somu Nandi**
+
+**Soumya Nandi**
 - GitHub: [@Somu-nandi](https://github.com/Somu-nandi)
 - LinkedIn: [Soumya Nandi](https://linkedin.com/in/soumya-nandi-7a0347249)
 
