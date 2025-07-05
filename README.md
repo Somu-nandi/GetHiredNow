@@ -59,7 +59,7 @@ A full-stack job portal application built with React, Node.js, Express, and Mong
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/GetHiredNow.git
+   git clone https://github.com/Somu-nandi/GetHiredNow.git
    cd GetHiredNow
    ```
 
@@ -167,9 +167,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+**Somu Nandi**
+- GitHub: [@Somu-nandi](https://github.com/Somu-nandi)
+- LinkedIn: [Soumya Nandi](https://linkedin.com/in/soumya-nandi-7a0347249)
 
 ## 🙏 Acknowledgments
 
